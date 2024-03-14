@@ -22,22 +22,20 @@
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-plain.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg">
 </p>
 
 <br/>
 
 <p align="center">
-    <a href="https://github.com/tauz-hub/tauz-hub.git">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tauz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioPaulinoCosta&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioPaulinoCosta&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
 ## 📊 Github Stats
 
   <br/>
-  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioPaulinoCosta&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPaulinoCosta&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioPaulinoCosta&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPaulinoCosta&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=javascript" />
   <br/>
   <b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens que meu código público consiste e não refletem experiência ou nível de habilidade.
 
