@@ -10,8 +10,14 @@ Sobre mim
 ##
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioCosta&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCosta&layout=compact&theme=tokyonight"/>
+   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=CaioPaulinoCosta&show_icons=true&theme=radical"/>
+      <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPaulinoCosta&layout=compact&theme=radical"/>
+</div>
+
+##
+
+<div style="display:flex; justify-content: center;">
+      <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioPaulinoCosta&theme=radical&hide_border=false"/>
 </div>
 
 <div style="display: inline_block"><br>
