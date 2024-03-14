@@ -33,9 +33,8 @@
 
 ## 📊 Github Stats
 
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioPaulinoCosta&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPaulinoCosta&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=javascript" />
+  <a href="https://github-readme-stats.vercel.app/api?username=CaioPaulinoCosta&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioPaulinoCosta&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=CaioPaulinoCosta&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPaulinoCosta&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
   <br/>
   <b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens que meu código público consiste e não refletem experiência ou nível de habilidade.
 
