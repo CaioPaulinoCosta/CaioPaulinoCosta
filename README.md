@@ -1,5 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, me chamo Caio!</h1>
-<h3 align="center">Tecnologo Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia Ourinhos (FATEC). Técnico em Desenvolvimento de Sistemas. Desenvolvedor WEB.</h3>
+<h3 align="center">Tecnólogo Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia Ourinhos (FATEC). Técnico em Desenvolvimento de Sistemas. Desenvolvedor WEB.</h3>
 
 ##
 
