@@ -5,10 +5,9 @@
 
 <h3> 🙋‍♂️ Sobre mim </h3>
 
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas na [FATEC Ourinhos](https://www.fatecourinhos.edu.br/)
-- 📈 Desenvolvedor do site de recrutamento e seleção [Patricia Paulino RH](https://www.patriciapaulinorh.com.br/)
-- 🏝 Minha praia é desenvolvimento WEB. Porém gosto de explorar desenvolvimento de softwares também.
-- 📫 Entre em contato comigo pelo email: caiopaulinocosta@hotmail.com
+- 📚 Tecnologo em Análise e Desenvolvimento de Sistemas pela [FATEC Ourinhos](https://www.fatecourinhos.edu.br/)
+- 📈 Desenvolvedor do site de recrutamento e seleção [Patrícia Paulino - Gestão de Pessoas](https://www.conecta2p.com.br/)
+- 📫 Entre em contato comigo pelo email: caiopaulinocostadev@outlook.com
 
 ## 🚀 Linguagens e ferramentas:
 
