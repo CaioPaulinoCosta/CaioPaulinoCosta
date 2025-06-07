@@ -6,7 +6,6 @@
 <h3> 🙋‍♂️ Sobre mim </h3>
 
 - 📚 Tecnólogo em Análise e Desenvolvimento de Sistemas pela [FATEC Ourinhos](https://www.fatecourinhos.edu.br/)
-- 📈 Desenvolvedor do site de recrutamento e seleção [Patrícia Paulino - Gestão de Pessoas](https://www.conecta2p.com.br/)
 - 📫 Entre em contato comigo pelo email: caiopaulinocostadev@outlook.com
 
 ## 🚀 Linguagens e ferramentas:
