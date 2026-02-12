@@ -43,14 +43,6 @@
 
 <br/>
 
-<br/>
-
-<!-- DevOps / Cloud -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="32" width="42" alt="Docker"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" width="42" alt="AWS"/>
-
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
