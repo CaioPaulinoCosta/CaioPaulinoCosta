@@ -9,7 +9,7 @@
   Desenvolvedor Web com foco em Backend e Integrações
 </h3>
 
-<br><br>
+<br>
 
 <h3> 🙋‍♂️ Sobre mim </h3>
 
@@ -19,7 +19,7 @@
 - 💻 Interesse em Backend, Engenharia de Dados e Integração de Sistemas  
 - 📫 Contato: **caiopaulinocostadev@outlook.com**
 
-<br><br>
+<br>
 
 <!-- Linguagens -->
 <h2> 🚀 Linguagens, Frameworks e Ferramentas </h2>
