@@ -43,12 +43,6 @@
 
 <br/>
 
-<!-- Backend / Web -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="32" width="42" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="32" width="42" alt="Express"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="32" width="42" alt="Laravel"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="32" width="42" alt="React"/>
-
 <br/>
 
 <!-- DevOps / Cloud -->
