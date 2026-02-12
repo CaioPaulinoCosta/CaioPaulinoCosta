@@ -9,7 +9,7 @@
   Desenvolvedor Web com foco em Backend e Integrações
 </h3>
 
----
+<br><br>
 
 <h3> 🙋‍♂️ Sobre mim </h3>
 
@@ -19,14 +19,10 @@
 - 💻 Interesse em Backend, Engenharia de Dados e Integração de Sistemas  
 - 📫 Contato: **caiopaulinocostadev@outlook.com**
 
----
-
-## 🚀 Linguagens, Frameworks e Ferramentas
-
-<p align="left">
+<br><br>
 
 <!-- Linguagens -->
-## 🚀 Linguagens, Frameworks e Ferramentas
+<h2> 🚀 Linguagens, Frameworks e Ferramentas </h2>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="36" alt="TypeScript"/>
@@ -39,26 +35,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="36" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="36" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36" alt="AWS"/>
-</p>
----
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=CaioPaulinoCosta&theme=radical&hide_border=true&background=0D1117" 
-    alt="GitHub Streak"
-  />
-</p>
-
-
----
-
-## 🔌 Conectar-se comigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/caio-paulino-costa-26b95925a" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
 </p>
