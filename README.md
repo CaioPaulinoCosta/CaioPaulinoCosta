@@ -40,11 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="36" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36" alt="AWS"/>
 </p>
-
-<br/>
-
 ---
-
 ## 🔥 GitHub Streak
 
 <p align="center">
