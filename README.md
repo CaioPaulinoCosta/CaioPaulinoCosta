@@ -5,8 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC Ourinhos • 
-  Desenvolvedor Web com foco em Backend e Integrações
+  Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC Ourinhos, atualmente cursando Ciência de Dados, com foco e interesse em Engenharia de Dados. Desenvolvedor Web com atuação em Backend e Integrações, voltado à criação de soluções escaláveis e orientadas a dados.
 </h3>
 
 <br>
